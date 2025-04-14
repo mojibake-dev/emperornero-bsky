@@ -7,7 +7,7 @@ load_dotenv()
 
 OPEN_AI_APIKEY = os.getenv("OPENAI_API_KEY")
 
-reply = "what was your rational for having your legionairs attack the sea?"
+reply = "why were you insane?"
 post = '"Just renamed my palace "The Chillium Maximus." The neighbors are jealous, but maybe they shouldnt have complained about my 3 a.m. chariot racing. 🤷‍♂️ Also, anyone elses eunuch wife keep rearranging the gladiator training schedule? Just me? #domesticbliss #empireremodel"'
 
 #define my agent
