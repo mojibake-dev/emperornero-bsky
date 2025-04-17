@@ -38,7 +38,6 @@ def makePost(postText):
 
 
 def main():
-
     postText = asyncio.run(generatePost())
     makePost(postText)
 
